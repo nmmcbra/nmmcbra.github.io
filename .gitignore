@@ -33,3 +33,6 @@ Temporary Items
 
 # debug file
 _site
+
+# vscode workspace
+nmmcbra.github.io.code-workspace
